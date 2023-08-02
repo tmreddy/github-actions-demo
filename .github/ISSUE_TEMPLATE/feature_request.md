@@ -1,11 +1,3 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **UseCases**
 Explain the use case of this feature
